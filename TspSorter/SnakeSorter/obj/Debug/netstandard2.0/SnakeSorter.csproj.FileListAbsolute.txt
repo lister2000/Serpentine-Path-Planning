@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\bin\Debug\netstandard2.0\SnakeSorter.deps.json
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\bin\Debug\netstandard2.0\SnakeSorter.dll
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\bin\Debug\netstandard2.0\SnakeSorter.pdb
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.dll
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\SnakeSorter\obj\Debug\netstandard2.0\SnakeSorter.pdb

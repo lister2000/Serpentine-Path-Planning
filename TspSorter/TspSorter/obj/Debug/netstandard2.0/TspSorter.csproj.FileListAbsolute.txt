@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\bin\Debug\netstandard2.0\TspSorter.deps.json
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\bin\Debug\netstandard2.0\TspSorter.dll
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\bin\Debug\netstandard2.0\TspSorter.pdb
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.dll
+C:\Users\Administrator\Desktop\Path_Extractor\TspSorter\TspSorter\obj\Debug\netstandard2.0\TspSorter.pdb
